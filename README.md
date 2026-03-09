@@ -55,3 +55,4 @@ Day 60: Added comments to code
 Day 61: Notes on gas optimization
 Day 62: Updated Example.sol with mappings
 Day 63: Added multi-line function example
+Day 64: Edited progress.txt with lessons
