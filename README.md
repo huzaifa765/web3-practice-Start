@@ -1,1 +1,1 @@
-Day 3: Practiced smart contract editing
+Day 4: Updated progress.txt
