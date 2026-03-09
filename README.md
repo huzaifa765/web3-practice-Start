@@ -90,3 +90,4 @@ Day 95: Progress update with lessons
 Day 96: Edited Example.sol structure
 Day 97: Added require/assert examples
 Day 98: Notes on smart contract testing
+Day 99: Edited Example.sol events
