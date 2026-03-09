@@ -1,1 +1,1 @@
-Day 2: Added notes about Base Guild
+Day 3: Practiced smart contract editing
