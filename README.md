@@ -1,1 +1,1 @@
-Day 5: Minor file changes
+Day 6: Added learning notes
