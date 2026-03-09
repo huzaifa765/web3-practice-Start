@@ -12,3 +12,4 @@ Day 17: Updated progress.txt
 Day 18: Minor change
 Day 19: Editing notes
 Day 20: Progress commit
+Day 21: Added practice file
