@@ -11,3 +11,4 @@ Day 16: Added small code snippet
 Day 17: Updated progress.txt
 Day 18: Minor change
 Day 19: Editing notes
+Day 20: Progress commit
