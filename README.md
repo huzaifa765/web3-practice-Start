@@ -84,3 +84,4 @@ Day 89: Updated progress.txt insights
 Day 90: Practiced arrays and loops
 Day 91: Added small NFT function
 Day 92: Notes on ERC standards
+Day 93: Edited Example.sol comments
