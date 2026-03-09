@@ -77,3 +77,4 @@ Day 82: Edited helper functions
 Day 83: Added events practice
 Day 84: Updated file structure
 Day 85: Progress notes on gas usage
+Day 86: Added modifier examples
