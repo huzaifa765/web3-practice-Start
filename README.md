@@ -58,3 +58,4 @@ Day 63: Added multi-line function example
 Day 64: Edited progress.txt with lessons
 Day 65: Notes on ERC721 contracts
 Day 66: Added NFT example snippet
+Day 67: Small contract bug fix
