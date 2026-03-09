@@ -1,1 +1,1 @@
-1: Starting Base Guild commits journey
+Day 2: Added notes about Base Guild
