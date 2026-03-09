@@ -78,3 +78,4 @@ Day 83: Added events practice
 Day 84: Updated file structure
 Day 85: Progress notes on gas usage
 Day 86: Added modifier examples
+Day 87: Edited Example.sol logic
