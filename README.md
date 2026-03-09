@@ -53,3 +53,4 @@ Day 58: File structure improvements
 Day 59: Learning events in Solidity
 Day 60: Added comments to code
 Day 61: Notes on gas optimization
+Day 62: Updated Example.sol with mappings
