@@ -44,3 +44,4 @@ Day 49: Minor progress edit
 Day 50: Completed 50 commits
 Day 51: Explored new Solidity patterns
 Day 52: Added example ERC20 contract
+Day 53: Notes on Remix IDE usage
