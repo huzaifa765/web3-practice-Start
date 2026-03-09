@@ -64,3 +64,4 @@ Day 69: Edited Example.sol function logic
 Day 70: Progress note for Base Guild
 Day 71: Practiced array manipulations
 Day 72: Added struct examples
+Day 73: Updated helper functions
