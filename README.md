@@ -16,3 +16,4 @@ Day 21: Added practice file
 Day 22: Minor edit
 Day 23: Update content
 Day 24: Edited progress.txt
+Day 25: Minor code changes
