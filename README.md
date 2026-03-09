@@ -48,3 +48,4 @@ Day 53: Notes on Remix IDE usage
 Day 54: Practiced deploying contracts
 Day 55: Edited Example.sol for learning
 Day 56: Updated progress tracking
+Day 57: Added small helper functions
