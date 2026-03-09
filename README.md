@@ -86,3 +86,4 @@ Day 91: Added small NFT function
 Day 92: Notes on ERC standards
 Day 93: Edited Example.sol comments
 Day 94: Added simple fallback function
+Day 95: Progress update with lessons
