@@ -50,3 +50,4 @@ Day 55: Edited Example.sol for learning
 Day 56: Updated progress tracking
 Day 57: Added small helper functions
 Day 58: File structure improvements
+Day 59: Learning events in Solidity
