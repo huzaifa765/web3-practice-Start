@@ -73,3 +73,4 @@ Day 78: Small code optimization
 Day 79: Updated Example.sol comments
 Day 80: Notes on Solidity functions
 Day 81: Added require statements
+Day 82: Edited helper functions
