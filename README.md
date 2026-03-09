@@ -1,1 +1,1 @@
-# web3-practice-Start
+1: Starting Base Guild commits journey
