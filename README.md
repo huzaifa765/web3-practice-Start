@@ -87,3 +87,4 @@ Day 92: Notes on ERC standards
 Day 93: Edited Example.sol comments
 Day 94: Added simple fallback function
 Day 95: Progress update with lessons
+Day 96: Edited Example.sol structure
