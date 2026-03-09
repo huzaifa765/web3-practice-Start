@@ -72,3 +72,4 @@ Day 77: Progress.txt update with insights
 Day 78: Small code optimization
 Day 79: Updated Example.sol comments
 Day 80: Notes on Solidity functions
+Day 81: Added require statements
