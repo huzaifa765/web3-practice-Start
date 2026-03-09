@@ -34,3 +34,4 @@ Day 39: Edited notes
 Day 40: Progress update
 Day 41: Minor file change
 Day 42: Added practice note
+Day 43: Edited progress.txt
