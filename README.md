@@ -47,3 +47,4 @@ Day 52: Added example ERC20 contract
 Day 53: Notes on Remix IDE usage
 Day 54: Practiced deploying contracts
 Day 55: Edited Example.sol for learning
+Day 56: Updated progress tracking
