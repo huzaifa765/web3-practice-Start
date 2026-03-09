@@ -60,3 +60,4 @@ Day 65: Notes on ERC721 contracts
 Day 66: Added NFT example snippet
 Day 67: Small contract bug fix
 Day 68: Added learning references
+Day 69: Edited Example.sol function logic
