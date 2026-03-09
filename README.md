@@ -1,1 +1,2 @@
-Day 6: Added learning notes
+Day 7: Base practice commit
+Day 8: Updated progress.txt
