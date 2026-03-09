@@ -75,3 +75,4 @@ Day 80: Notes on Solidity functions
 Day 81: Added require statements
 Day 82: Edited helper functions
 Day 83: Added events practice
+Day 84: Updated file structure
