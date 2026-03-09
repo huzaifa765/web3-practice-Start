@@ -1,1 +1,1 @@
-Day 4: Updated progress.txt
+Day 5: Minor file changes
