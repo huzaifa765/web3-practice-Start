@@ -7,3 +7,4 @@ Day 12: Practice commit
 Day 13: Updated content
 Day 14: Edited notes
 Day 15: File changes
+Day 16: Added small code snippet
