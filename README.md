@@ -80,3 +80,4 @@ Day 85: Progress notes on gas usage
 Day 86: Added modifier examples
 Day 87: Edited Example.sol logic
 Day 88: Added nested functions
+Day 89: Updated progress.txt insights
