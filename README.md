@@ -68,3 +68,4 @@ Day 73: Updated helper functions
 Day 74: Notes on modifiers
 Day 75: Edited Example.sol with modifiers
 Day 76: Added mappings example
+Day 77: Progress.txt update with insights
