@@ -81,3 +81,4 @@ Day 86: Added modifier examples
 Day 87: Edited Example.sol logic
 Day 88: Added nested functions
 Day 89: Updated progress.txt insights
+Day 90: Practiced arrays and loops
