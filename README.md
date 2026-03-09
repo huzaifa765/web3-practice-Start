@@ -91,3 +91,4 @@ Day 96: Edited Example.sol structure
 Day 97: Added require/assert examples
 Day 98: Notes on smart contract testing
 Day 99: Edited Example.sol events
+Day 100: Completed 100 commits milestone
