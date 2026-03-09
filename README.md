@@ -76,3 +76,4 @@ Day 81: Added require statements
 Day 82: Edited helper functions
 Day 83: Added events practice
 Day 84: Updated file structure
+Day 85: Progress notes on gas usage
