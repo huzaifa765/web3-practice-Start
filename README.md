@@ -9,3 +9,4 @@ Day 14: Edited notes
 Day 15: File changes
 Day 16: Added small code snippet
 Day 17: Updated progress.txt
+Day 18: Minor change
