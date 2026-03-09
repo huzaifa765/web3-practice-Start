@@ -31,3 +31,4 @@ Day 36: File changes
 Day 37: Progress.txt edit
 Day 38: Minor code snippet
 Day 39: Edited notes
+Day 40: Progress update
